@@ -1,9 +1,9 @@
 # The-Pokemon-Dataset
 This contains all dataset scrapped from following sites (read below):
 
-Pokemon: https://www.pokemon.com/us/pokedex/
-Kaggle: https://www.kaggle.com/datasets/rounakbanik/pokemon
-Github: https://github.com/DetainedDeveloper/Pokedex
+* Pokemon: https://www.pokemon.com/us/pokedex/
+* Kaggle: https://www.kaggle.com/datasets/rounakbanik/pokemon
+* Github: https://github.com/DetainedDeveloper/Pokedex
 
 Connect your Power BI to datasets using "Web":
 * PokeDex ID: https://raw.githubusercontent.com/DetainedDeveloper/Pokedex/master/pokedex_raw/pokedex_raw_array.json
